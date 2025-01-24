@@ -6,6 +6,7 @@
 1. [Inspirations](#inspirations)
 2. [Design & Tools](#tools)
 3. [UI Components](#components)
+4. [Additional](#Additional)
 
 ### Inspirations
 - Colorways Inspiration: [Pinterest](https://www.pinterest.com/).
@@ -89,3 +90,11 @@ p.s. Similar with "Magic-UI", for creating/editing repository.
 
 ### Cult UI
 ...
+
+
+## Additional
+- cdnjs [font-awesome lib](https://cdnjs.com/libraries/font-awesome)
+- Font-Awesome [GitHub](https://github.com/FortAwesome/Font-Awesome/tree/6.x)
+> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+> font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+> <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
