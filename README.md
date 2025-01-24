@@ -93,8 +93,12 @@ p.s. Similar with "Magic-UI", for creating/editing repository.
 
 
 ## Additional
+
+### cdnjs
 - cdnjs [font-awesome lib](https://cdnjs.com/libraries/font-awesome)
 - Font-Awesome [GitHub](https://github.com/FortAwesome/Font-Awesome/tree/6.x)
-> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
-> font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-> <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
+```
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+<a href="#" title="GitHub"><i class="fab fa-github"></i></a>
+```
