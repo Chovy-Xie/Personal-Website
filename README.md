@@ -102,3 +102,12 @@ p.s. Similar with "Magic-UI", for creating/editing repository.
 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
 ```
+
+### Color
+```
+:root {
+    background-color: #1a1a1a;
+    color: #fff;
+    --link-hover: #ccc;
+}
+```
